@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Abacus16.data.unityweb",
+"asmCodeUrl": "Abacus16.asm.code.unityweb",
+"asmMemoryUrl": "Abacus16.asm.memory.unityweb",
+"asmFrameworkUrl": "Abacus16.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
